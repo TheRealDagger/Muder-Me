@@ -1,0 +1,11 @@
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\bin\Debug\netcoreapp3.1\Hacks.exe
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\bin\Debug\netcoreapp3.1\Hacks.deps.json
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\bin\Debug\netcoreapp3.1\Hacks.runtimeconfig.json
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\bin\Debug\netcoreapp3.1\Hacks.runtimeconfig.dev.json
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\bin\Debug\netcoreapp3.1\Hacks.dll
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\bin\Debug\netcoreapp3.1\Hacks.pdb
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\obj\Debug\netcoreapp3.1\Hacks.AssemblyInfoInputs.cache
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\obj\Debug\netcoreapp3.1\Hacks.AssemblyInfo.cs
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\obj\Debug\netcoreapp3.1\Hacks.dll
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\obj\Debug\netcoreapp3.1\Hacks.pdb
+C:\Users\dylagray4491\source\repos\Hacks\Hacks\obj\Debug\netcoreapp3.1\Hacks.csprojAssemblyReference.cache
